@@ -1,4 +1,4 @@
-file-upload
+File Upload
 ===========
 
 A library for receive and save uploaded files with PHP.
