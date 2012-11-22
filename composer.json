@@ -1,0 +1,20 @@
+{
+    "name": "diogobenica/file-upload",
+    "type": "library",
+    "description": "A library for receive and save uploaded files with PHP",
+    "keywords": ["file", "upload", "save"],
+    "homepage": "http://github.com/diogobenica/file-upload",
+    "license": "MIT",
+    "authors": [
+        {"name": "Diogo Benicá", "email": "diogobenica@gmail.com"}
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7@stable"
+    },
+    "autoload": {
+        "psr-0": { "DiogoBenica": "src/" }
+    }
+}
